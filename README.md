@@ -11,6 +11,20 @@
     - NextJS
 
 ## Install React Project
-- nvm - node version manager
+
+### Install NodeJS and NPM
+- nvm - node version manager. Install it with: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
     - `nvm install 18.18`
     - `nvm use 18.18`
+
+### Install React Project with Vite
+- `npm create vite@latest`
+- `cd my-app`
+- `npm install`
+- `npm run dev`
+
+### Install React Project with NextJS
+- `npx create-next-app@latest`
+- `cd my-app`
+- `npm install`
+- `npm run dev`
