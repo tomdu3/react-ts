@@ -4,3 +4,13 @@
 - [Beto](https://x.com/betomoedano) 
 -  https://codewithbeto.dev/learnReact
 
+- Stack:
+    - React
+    - TypeScript
+    - NodeJS
+    - NextJS
+
+## Install React Project
+- nvm - node version manager
+    - `nvm install 18.18`
+    - `nvm use 18.18`
